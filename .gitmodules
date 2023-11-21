@@ -1,0 +1,3 @@
+[submodule "DbConnector"]
+    path = components
+    url = https://github.com/jeffersoncbd/submodule-module
