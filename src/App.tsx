@@ -1,7 +1,7 @@
 import React from 'react'
 
 const containerStyles: React.CSSProperties = {
-  height: '100vh',
+  flex: '1',
   display: 'flex',
   alignItems: 'center',
   justifyContent: 'center',
